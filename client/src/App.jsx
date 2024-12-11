@@ -179,7 +179,7 @@ const App = () => {
               </tbody>
             </table>
           ) : (
-            <p>No students found for the selected subject.</p>
+            <p>No Records found.</p>
           )}
         </div>
       )}
