@@ -1,0 +1,561 @@
+{
+  "subjects": [
+    {
+      "id": "1",
+      "title": "Maths"
+    },
+    {
+      "id": "2",
+      "title": "Physics"
+    },
+    {
+      "id": "3",
+      "title": "Chemistry"
+    },
+    {
+      "id": "4",
+      "title": "Economics"
+    },
+    {
+      "id": "5",
+      "title": "Social"
+    }
+  ],
+  "students": [
+    {
+      "id": "1",
+      "title": "Maths",
+      "studentName": "Prakash",
+      "marks": "85",
+      "percentage": "85%",
+      "HOD": "Surya"
+    },
+    {
+      "id": "2",
+      "title": "Physics",
+      "studentName": "Ravi",
+      "marks": "90",
+      "percentage": "90%",
+      "HOD": "Priya"
+    },
+    {
+      "id": "3",
+      "title": "Chemistry",
+      "studentName": "Ananya",
+      "marks": "75",
+      "percentage": "75%",
+      "HOD": "Naveen"
+    },
+    {
+      "id": "4",
+      "title": "Economics",
+      "studentName": "Kiran",
+      "marks": "88",
+      "percentage": "88%",
+      "HOD": "Deepa"
+    },
+    {
+      "id": "5",
+      "title": "Social",
+      "studentName": "Sneha",
+      "marks": "92",
+      "percentage": "92%",
+      "HOD": "Ramesh"
+    },
+    {
+      "id": "6",
+      "title": "Maths",
+      "studentName": "Amit",
+      "marks": "78",
+      "percentage": "78%",
+      "HOD": "Surya"
+    },
+    {
+      "id": "7",
+      "title": "Physics",
+      "studentName": "Neha",
+      "marks": "85",
+      "percentage": "85%",
+      "HOD": "Priya"
+    },
+    {
+      "id": "8",
+      "title": "Chemistry",
+      "studentName": "Manoj",
+      "marks": "80",
+      "percentage": "80%",
+      "HOD": "Naveen"
+    },
+    {
+      "id": "9",
+      "title": "Economics",
+      "studentName": "Arjun",
+      "marks": "76",
+      "percentage": "76%",
+      "HOD": "Deepa"
+    },
+    {
+      "id": "10",
+      "title": "Social",
+      "studentName": "Vidya",
+      "marks": "89",
+      "percentage": "89%",
+      "HOD": "Ramesh"
+    },
+    {
+      "id": "11",
+      "title": "Maths",
+      "studentName": "Sanjay",
+      "marks": "83",
+      "percentage": "83%",
+      "HOD": "Surya"
+    },
+    {
+      "id": "12",
+      "title": "Physics",
+      "studentName": "Ishita",
+      "marks": "88",
+      "percentage": "88%",
+      "HOD": "Priya"
+    },
+    {
+      "id": "13",
+      "title": "Chemistry",
+      "studentName": "Vikram",
+      "marks": "72",
+      "percentage": "72%",
+      "HOD": "Naveen"
+    },
+    {
+      "id": "14",
+      "title": "Economics",
+      "studentName": "Geeta",
+      "marks": "91",
+      "percentage": "91%",
+      "HOD": "Deepa"
+    },
+    {
+      "id": "15",
+      "title": "Social",
+      "studentName": "Nidhi",
+      "marks": "86",
+      "percentage": "86%",
+      "HOD": "Ramesh"
+    },
+    {
+      "id": "16",
+      "title": "Maths",
+      "studentName": "Rahul",
+      "marks": "79",
+      "percentage": "79%",
+      "HOD": "Surya"
+    },
+    {
+      "id": "17",
+      "title": "Physics",
+      "studentName": "Sonia",
+      "marks": "81",
+      "percentage": "81%",
+      "HOD": "Priya"
+    },
+    {
+      "id": "18",
+      "title": "Chemistry",
+      "studentName": "Ajay",
+      "marks": "84",
+      "percentage": "84%",
+      "HOD": "Naveen"
+    },
+    {
+      "id": "19",
+      "title": "Economics",
+      "studentName": "Kavya",
+      "marks": "82",
+      "percentage": "82%",
+      "HOD": "Deepa"
+    },
+    {
+      "id": "20",
+      "title": "Social",
+      "studentName": "Rohit",
+      "marks": "87",
+      "percentage": "87%",
+      "HOD": "Ramesh"
+    },
+    {
+      "id": "21",
+      "title": "Maths",
+      "studentName": "Tina",
+      "marks": "90",
+      "percentage": "90%",
+      "HOD": "Surya"
+    },
+    {
+      "id": "22",
+      "title": "Physics",
+      "studentName": "Pooja",
+      "marks": "78",
+      "percentage": "78%",
+      "HOD": "Priya"
+    },
+    {
+      "id": "23",
+      "title": "Chemistry",
+      "studentName": "Arav",
+      "marks": "80",
+      "percentage": "80%",
+      "HOD": "Naveen"
+    },
+    {
+      "id": "24",
+      "title": "Economics",
+      "studentName": "Meera",
+      "marks": "86",
+      "percentage": "86%",
+      "HOD": "Deepa"
+    },
+    {
+      "id": "25",
+      "title": "Social",
+      "studentName": "Kush",
+      "marks": "89",
+      "percentage": "89%",
+      "HOD": "Ramesh"
+    },
+    {
+      "id": "26",
+      "title": "Maths",
+      "studentName": "Divya",
+      "marks": "77",
+      "percentage": "77%",
+      "HOD": "Surya"
+    },
+    {
+      "id": "27",
+      "title": "Physics",
+      "studentName": "Tarun",
+      "marks": "84",
+      "percentage": "84%",
+      "HOD": "Priya"
+    },
+    {
+      "id": "28",
+      "title": "Chemistry",
+      "studentName": "Ansh",
+      "marks": "88",
+      "percentage": "88%",
+      "HOD": "Naveen"
+    },
+    {
+      "id": "29",
+      "title": "Economics",
+      "studentName": "Siddharth",
+      "marks": "82",
+      "percentage": "82%",
+      "HOD": "Deepa"
+    },
+    {
+      "id": "30",
+      "title": "Social",
+      "studentName": "Prerna",
+      "marks": "80",
+      "percentage": "80%",
+      "HOD": "Ramesh"
+    },
+    {
+      "id": "31",
+      "title": "Maths",
+      "studentName": "Shivam",
+      "marks": "91",
+      "percentage": "91%",
+      "HOD": "Surya"
+    },
+    {
+      "id": "32",
+      "title": "Physics",
+      "studentName": "Ritu",
+      "marks": "89",
+      "percentage": "89%",
+      "HOD": "Priya"
+    },
+    {
+      "id": "33",
+      "title": "Chemistry",
+      "studentName": "Ankita",
+      "marks": "83",
+      "percentage": "83%",
+      "HOD": "Naveen"
+    },
+    {
+      "id": "34",
+      "title": "Economics",
+      "studentName": "Bhavya",
+      "marks": "87",
+      "percentage": "87%",
+      "HOD": "Deepa"
+    },
+    {
+      "id": "35",
+      "title": "Social",
+      "studentName": "Dev",
+      "marks": "76",
+      "percentage": "76%",
+      "HOD": "Ramesh"
+    },
+    {
+      "id": "36",
+      "title": "Maths",
+      "studentName": "Esha",
+      "marks": "88",
+      "percentage": "88%",
+      "HOD": "Surya"
+    },
+    {
+      "id": "37",
+      "title": "Physics",
+      "studentName": "Gaurav",
+      "marks": "80",
+      "percentage": "80%",
+      "HOD": "Priya"
+    },
+    {
+      "id": "38",
+      "title": "Chemistry",
+      "studentName": "Ira",
+      "marks": "92",
+      "percentage": "92%",
+      "HOD": "Naveen"
+    },
+    {
+      "id": "39",
+      "title": "Economics",
+      "studentName": "Jai",
+      "marks": "85",
+      "percentage": "85%",
+      "HOD": "Deepa"
+    },
+    {
+      "id": "40",
+      "title": "Social",
+      "studentName": "Kabir",
+      "marks": "84",
+      "percentage": "84%",
+      "HOD": "Ramesh"
+    },
+    {
+      "id": "41",
+      "title": "Maths",
+      "studentName": "Lavanya",
+      "marks": "79",
+      "percentage": "79%",
+      "HOD": "Surya"
+    },
+    {
+      "id": "42",
+      "title": "Physics",
+      "studentName": "Maya",
+      "marks": "86",
+      "percentage": "86%",
+      "HOD": "Priya"
+    },
+    {
+      "id": "43",
+      "title": "Chemistry",
+      "studentName": "Nikhil",
+      "marks": "89",
+      "percentage": "89%",
+      "HOD": "Naveen"
+    },
+    {
+      "id": "44",
+      "title": "Economics",
+      "studentName": "Om",
+      "marks": "92",
+      "percentage": "92%",
+      "HOD": "Deepa"
+    },
+    {
+      "id": "45",
+      "title": "Social",
+      "studentName": "Pari",
+      "marks": "80",
+      "percentage": "80%",
+      "HOD": "Ramesh"
+    },
+    {
+      "id": "46",
+      "title": "Maths",
+      "studentName": "Reyansh",
+      "marks": "81",
+      "percentage": "81%",
+      "HOD": "Surya"
+    },
+    {
+      "id": "47",
+      "title": "Physics",
+      "studentName": "Shaurya",
+      "marks": "88",
+      "percentage": "88%",
+      "HOD": "Priya"
+    },
+    {
+      "id": "48",
+      "title": "Chemistry",
+      "studentName": "Tara",
+      "marks": "75",
+      "percentage": "75%",
+      "HOD": "Naveen"
+    },
+    {
+      "id": "49",
+      "title": "Economics",
+      "studentName": "Uday",
+      "marks": "77",
+      "percentage": "77%",
+      "HOD": "Deepa"
+    },
+    {
+      "id": "50",
+      "title": "Social",
+      "studentName": "Vihaan",
+      "marks": "90",
+      "percentage": "90%",
+      "HOD": "Ramesh"
+    }
+  ],
+  "studentDetail": [
+    [
+      {
+        "id": "1",
+        "title": "Maths",
+        "studentName": "Prakash",
+        "marks": "85",
+        "percentage": "85%",
+        "HOD": "Surya",
+        "email": "prakash@example.com",
+        "phone": "1234567890",
+        "city": "Delhi",
+        "section": "A"
+      },
+      {
+        "id": "2",
+        "title": "Physics",
+        "studentName": "Ravi",
+        "marks": "90",
+        "percentage": "90%",
+        "HOD": "Anjali",
+        "email": "ravi@example.com",
+        "phone": "9876543210",
+        "city": "Mumbai",
+        "section": "B"
+      },
+      {
+        "id": "3",
+        "title": "Chemistry",
+        "studentName": "Neha",
+        "marks": "78",
+        "percentage": "78%",
+        "HOD": "Vijay",
+        "email": "neha@example.com",
+        "phone": "1122334455",
+        "city": "Chennai",
+        "section": "A"
+      },
+      {
+        "id": "4",
+        "title": "Biology",
+        "studentName": "Amit",
+        "marks": "92",
+        "percentage": "92%",
+        "HOD": "Anjali",
+        "email": "amit@example.com",
+        "phone": "6677889900",
+        "city": "Kolkata",
+        "section": "C"
+      },
+      {
+        "id": "5",
+        "title": "Geography",
+        "studentName": "Sita",
+        "marks": "88",
+        "percentage": "88%",
+        "HOD": "Surya",
+        "email": "sita@example.com",
+        "phone": "5566778899",
+        "city": "Hyderabad",
+        "section": "B"
+      },
+      {
+        "id": "6",
+        "title": "History",
+        "studentName": "Vikram",
+        "marks": "75",
+        "percentage": "75%",
+        "HOD": "Vijay",
+        "email": "vikram@example.com",
+        "phone": "2233445566",
+        "city": "Bangalore",
+        "section": "C"
+      }
+    ]
+  ],
+  "users": [
+    {
+      "id": "ca64",
+      "name": "suman",
+      "email": "ajay@email.com"
+    },
+    {
+      "id": "e31e",
+      "name": "sam",
+      "email": "sam@gmail.com"
+    },
+    {
+      "id": "660d",
+      "name": "sam",
+      "email": "sam@gmail.com"
+    },
+    {
+      "id": "6287",
+      "name": "sam",
+      "email": "sam@gmail.com"
+    },
+    {
+      "id": "dc5f",
+      "name": "sam",
+      "email": "sam@gmail.com"
+    },
+    {
+      "id": "20e1",
+      "name": "sam",
+      "email": "sam@gmail.com"
+    },
+    {
+      "id": "ac83",
+      "name": "Kalyan",
+      "email": "kalyan@gmail.com"
+    },
+    {
+      "id": "73fa",
+      "name": "Kalyan",
+      "email": "sam@gmail.com"
+    },
+    {
+      "id": "325a",
+      "name": "sam",
+      "email": "sam@gmail.com"
+    }
+  ],
+  "requests": [
+    
+    {
+      "id": "c6ff",
+      "subjectId": "2",
+      "username": "sam",
+      "dateRequested": "2024-12-11T13:12:33.529Z"
+    }
+  ],
+  "detailRequests": [
+   
+  ]
+}
